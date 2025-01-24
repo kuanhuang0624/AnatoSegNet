@@ -2,7 +2,7 @@
 
 Official PyTorch code for ISBI 2025 **paper** "AnatoSegNet: Anatomy-Based CNN-Transformer Network for Enhanced Breast Ultrasound Image Segmentation".
 
-[Paper (link will be available later)] | [Code](https://github.com/YourUsername/AnatoSegNet)
+[Paper (link will be available later)] | [Code](https://github.com/kuanhuang0624/AnatoSegNet)
 
 [//]: # (**News** 🎉:)
 
